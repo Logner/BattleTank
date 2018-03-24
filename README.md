@@ -1,6 +1,6 @@
 # BattleTank
 An open-world battle tank game with simple AI and advanced control system made in UE_4.19.
-This game is made as a part of a udemy course im following made by [Ben Tristem](http://www.bentristem.com/)
+This game is made as a part of a Udemy course by [Ben Tristem](http://www.bentristem.com/)
 
 # Rules
 * Each player starts with finite health and ammo
