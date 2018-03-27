@@ -16,3 +16,5 @@ This game is made as a part of a Udemy course by [Ben Tristem](http://www.bentri
 * Projectile Physics
 * Simple AI
 * Background Music
+
+-Testing: cloned locally
