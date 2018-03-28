@@ -1,4 +1,4 @@
-# BattleTank
+# BattleTank (In progress)
 An open-world battle tank game with simple AI and advanced control system made in UE_4.19.
 This game is made as a part of a Udemy course by [Ben Tristem](http://www.bentristem.com/)
 
@@ -16,5 +16,10 @@ This game is made as a part of a Udemy course by [Ben Tristem](http://www.bentri
 * Projectile Physics
 * Simple AI
 * Background Music
+* Add multiple camera modes
 
--Testing: cloned locally
+# Controls
+* W / S - Move forward
+* A / D - Rotate tank Body
+* Mouse - view
+* V - switch camera mode
